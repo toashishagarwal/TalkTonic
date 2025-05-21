@@ -1,0 +1,12 @@
+SpeechRecognition
+transformers 
+torch 
+torchaudio 
+pyttsx3 
+numpy
+pipwin
+pyaudio
+openai
+python-dotenv
+pillow
+customtkinter 
