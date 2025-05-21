@@ -19,7 +19,7 @@
 
 ## 🖼️ Screenshots
 
-![TalkTonic Screenshot](https://via.placeholder.com/800x500/0d1117/3a86ff?text=TalkTonic+Screenshot)
+![TalkTonic Screenshot](https://github.com/toashishagarwal/TalkTonic/blob/main/demo.gif)
 
 ## 🚀 Getting Started
 
